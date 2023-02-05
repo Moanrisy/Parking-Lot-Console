@@ -1,0 +1,29 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=050e764d_002D94e0_002D4a78_002Da2e2_002D48b768d1c5cd/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="VehicleShouldHaveARegistrationNumber #6" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::AE55B617-0090-4768-80FE-73B5DDA48028::.NETFramework,Version=v4.8::ParkingLotConsole.VehicleTests.VehicleShouldHaveARegistrationNumber&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9bd3e462_002D4b37_002D4dc3_002Dad68_002D248d97d6e398/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="VehicleShouldHaveARegistrationNumber #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::AE55B617-0090-4768-80FE-73B5DDA48028::.NETFramework,Version=v4.8::ParkingLotConsole.VehicleTests.VehicleShouldHaveARegistrationNumber&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a61eecf7_002Df922_002D4064_002D9303_002Dc042def5bd81/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="VehicleShouldHaveARegistrationNumber" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::AE55B617-0090-4768-80FE-73B5DDA48028::.NETFramework,Version=v4.8::ParkingLotConsole.VehicleTests.VehicleShouldHaveARegistrationNumber&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a719450f_002D8158_002D47e6_002D9fa7_002Dbd4e6c657f9b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="VehicleShouldHaveARegistrationNumber #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::AE55B617-0090-4768-80FE-73B5DDA48028::.NETFramework,Version=v4.8::ParkingLotConsole.VehicleTests.VehicleShouldHaveARegistrationNumber&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=cf1d18fb_002D031f_002D4b0d_002D8721_002D4b7cfa187d7b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="VehicleShouldHaveARegistrationNumber #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::AE55B617-0090-4768-80FE-73B5DDA48028::.NETFramework,Version=v4.8::ParkingLotConsole.VehicleTests.VehicleShouldHaveARegistrationNumber&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d3b45362_002D0ff6_002D40e0_002Da621_002Db69d5c4547d7/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="VehicleShouldHaveARegistrationNumber #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Project Location="/home/mars/Projects/dotnet/ParkingLotConsole/ParkingLotConsole" Presentation="&amp;lt;ParkingLotConsole&amp;gt;" /&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

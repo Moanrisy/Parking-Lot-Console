@@ -1,0 +1,17 @@
+/home/mars/Projects/dotnet/ParkingLotConsole/ParkingLotConsole/obj/Debug/ParkingLotConsole.csprojAssemblyReference.cache
+/home/mars/Projects/dotnet/ParkingLotConsole/ParkingLotConsole/obj/Debug/ParkingLotConsole.exe.config
+/home/mars/Projects/dotnet/ParkingLotConsole/ParkingLotConsole/obj/Debug/ParkingLotConsole.csproj.CoreCompileInputs.cache
+/home/mars/Projects/dotnet/ParkingLotConsole/ParkingLotConsole/bin/Debug/ParkingLotConsole.exe.config
+/home/mars/Projects/dotnet/ParkingLotConsole/ParkingLotConsole/bin/Debug/ParkingLotConsole.exe
+/home/mars/Projects/dotnet/ParkingLotConsole/ParkingLotConsole/bin/Debug/ParkingLotConsole.pdb
+/home/mars/Projects/dotnet/ParkingLotConsole/ParkingLotConsole/bin/Debug/xunit.abstractions.dll
+/home/mars/Projects/dotnet/ParkingLotConsole/ParkingLotConsole/bin/Debug/xunit.assert.dll
+/home/mars/Projects/dotnet/ParkingLotConsole/ParkingLotConsole/bin/Debug/xunit.core.dll
+/home/mars/Projects/dotnet/ParkingLotConsole/ParkingLotConsole/bin/Debug/xunit.execution.desktop.dll
+/home/mars/Projects/dotnet/ParkingLotConsole/ParkingLotConsole/bin/Debug/xunit.abstractions.xml
+/home/mars/Projects/dotnet/ParkingLotConsole/ParkingLotConsole/bin/Debug/xunit.assert.xml
+/home/mars/Projects/dotnet/ParkingLotConsole/ParkingLotConsole/bin/Debug/xunit.core.xml
+/home/mars/Projects/dotnet/ParkingLotConsole/ParkingLotConsole/bin/Debug/xunit.execution.desktop.xml
+/home/mars/Projects/dotnet/ParkingLotConsole/ParkingLotConsole/obj/Debug/ParkingLotConsole.csproj.CopyComplete
+/home/mars/Projects/dotnet/ParkingLotConsole/ParkingLotConsole/obj/Debug/ParkingLotConsole.exe
+/home/mars/Projects/dotnet/ParkingLotConsole/ParkingLotConsole/obj/Debug/ParkingLotConsole.pdb
